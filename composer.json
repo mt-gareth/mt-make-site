@@ -31,6 +31,7 @@
     "laminas/laminas-text": "^2.8",
     "laravel-zero/framework": "^8.0",
     "laravel/forge-sdk": "^3.3",
+    "padraic/phar-updater": "^1.0.6",
     "symfony/process": "^5.2"
   },
   "require-dev": {
