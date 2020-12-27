@@ -1,0 +1,106 @@
+{
+  "site_name": "test-site-6",
+  "flex": [
+    {
+      "name": "TestCompOne",
+      "template": "hero"
+    },
+    {
+      "name": "TestCompTwo"
+    },
+    {
+      "name": "TestCompThree"
+    },
+    {
+      "name": "TestCompFour"
+    },
+    {
+      "name": "TestCompFive"
+    },
+    {
+      "name": "TestCompSix"
+    }
+  ],
+  "pages": [
+    {
+      "name": "Test Page 1",
+      "flex": [
+        "TestCompOne",
+        "TestCompTwo",
+        "TestCompThree",
+        "TestCompFour",
+        "TestCompFive",
+        "TestCompSix"
+      ]
+    },
+    {
+      "name": "Test Page 2",
+      "flex": [
+        "TestCompTwo",
+        "TestCompTwo",
+        "TestCompThree",
+        "TestCompFour",
+        "TestCompFive",
+        "TestCompSix"
+      ]
+    },
+    {
+      "name": "Test Page 3",
+      "flex": [
+        "TestCompThree",
+        "TestCompTwo",
+        "TestCompThree",
+        "TestCompFour",
+        "TestCompFive",
+        "TestCompSix"
+      ]
+    },
+    {
+      "name": "Test Page 4",
+      "flex": [
+        "TestCompFour",
+        "TestCompTwo",
+        "TestCompThree",
+        "TestCompFour",
+        "TestCompFive",
+        "TestCompSix"
+      ]
+    },
+    {
+      "name": "Test Page 5",
+      "flex": [
+        "TestCompFive",
+        "TestCompTwo",
+        "TestCompThree",
+        "TestCompFour",
+        "TestCompFive",
+        "TestCompSix"
+      ]
+    },
+    {
+      "name": "Test Page 6",
+      "flex": [
+        "TestCompSix",
+        "TestCompTwo",
+        "TestCompThree",
+        "TestCompFour",
+        "TestCompFive",
+        "TestCompSix"
+      ]
+    }
+  ],
+  "CPT": [
+    {
+      "slug": "post_type_1",
+      "label": "Post Type 1"
+    },
+    {
+      "slug": "post_type_2",
+      "label": "Post Type 2"
+    },
+    {
+      "slug": "post_type_3",
+      "label": "Post Type 3"
+    }
+  ]
+}
